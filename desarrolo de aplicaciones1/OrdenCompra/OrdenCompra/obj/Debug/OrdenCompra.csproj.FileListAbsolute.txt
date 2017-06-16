@@ -1,0 +1,9 @@
+J:\OrdenCompra\OrdenCompra\bin\Debug\OrdenCompra.exe.config
+J:\OrdenCompra\OrdenCompra\bin\Debug\OrdenCompra.exe
+J:\OrdenCompra\OrdenCompra\bin\Debug\OrdenCompra.pdb
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.csprojResolveAssemblyReference.cache
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.Form1.resources
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.Properties.Resources.resources
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.csproj.GenerateResource.Cache
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.exe
+J:\OrdenCompra\OrdenCompra\obj\Debug\OrdenCompra.pdb
